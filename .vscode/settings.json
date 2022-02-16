@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.shell.windows": "state",
+    "terminal.integrated.shellArgs.windows": [
+        "activate",
+        "--confirm-exit-on-error",
+        "--non-interactive",
+        "--output=simple"
+    ],
+    "python.linting.flake8Path": "C:\\Users\\User\\AppData\\Local\\activestate\\e03298d3\\Scripts\\flake8.BAT",
+    "python.linting.pycodestylePath": "C:\\Users\\User\\AppData\\Local\\activestate\\e03298d3\\Scripts\\pycodestyle.BAT",
+    "python.linting.pylintPath": "C:\\Users\\User\\AppData\\Local\\activestate\\e03298d3\\Scripts\\pylint.BAT",
+    "python.testing.pytestPath": "C:\\Users\\User\\AppData\\Local\\activestate\\e03298d3\\Scripts\\pytest.BAT",
+    "python.pipenvPath": "C:\\Users\\User\\AppData\\Local\\activestate\\e03298d3\\Scripts\\pipenv.BAT",
+    "python.linting.mypyPath": "C:\\Users\\User\\AppData\\Local\\activestate\\e03298d3\\Scripts\\mypy.BAT"
+}
